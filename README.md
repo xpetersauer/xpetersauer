@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xpetersauer
-- 👀 I’m interested in bioinformatics and clinical informatics
-- 🌱 I’m currently a rising senior majoring in Biology and Statistics/Machine Learning at Carnegie Mellon University
-- 💞️ I’m looking to collaborate with research teams and project investigators in academics and industry
+- 👀 I’m interested in bioinformatics, clinical and genetic epidemiology, and statistical genomics.
+- 🌱 I’m currently an NIH post-bacc working on genomic and clinical epidemiology using electronic health records and how these datasets can be used to address gene-environment interactions.
 - 📫 How to reach me: by email at pjsauer @ gmail dot com
 
 <!---
